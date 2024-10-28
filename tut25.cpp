@@ -30,6 +30,5 @@ int main()
 		fb[i].setId();
 		fb[i].getId();
 	}
-	cout << "Happy Ending!" << endl;
 	return 0;
 }
